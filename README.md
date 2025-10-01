@@ -22,12 +22,6 @@ Unlike traditional churn research that relies mainly on behavioral or transactio
 
 ---
 
-## 📂 Repository Structure
-- `01_supervised_models.ipynb` → Logistic Regression, Random Forest, XGBoost, MLP  
-- `02_clustering_analysis.ipynb` → K-Means, Agglomerative, Spectral clustering + PCA visualization  
-
----
-
 ## ⚙️ Requirements
 - Python 3.9+  
 - Jupyter Notebook  
