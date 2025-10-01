@@ -27,6 +27,3 @@ Unlike traditional churn research that relies mainly on behavioral or transactio
 - Jupyter Notebook  
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `plotly`, `xgboost`  
 
-Install dependencies:  
-```bash
-pip install -r requirements.txt
